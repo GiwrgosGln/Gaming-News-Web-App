@@ -1,0 +1,36 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container {
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+table,td,tr {
+    border-collapse: collapse;
+    padding-right:10px;
+    padding-bottom: 30px;
+}
+
+thead {
+}
+
+tbody {
+}
+
+h1 {
+    text-align: center;
+}
+
+button img {
+  width:20px;
+  height:20px;
+}
+
+
