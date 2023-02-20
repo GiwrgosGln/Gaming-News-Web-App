@@ -5,3 +5,5 @@ We also added an admin panel to the web application that allowed the administrat
 
 As part of this university project, we plan to add a review page and an e-shop that will feature gaming stuff in the future.
 ![Screenshot_1](https://user-images.githubusercontent.com/48164998/220164690-8cf3ea6e-42df-43b9-a6eb-af50e2a88421.png)
+![Screenshot_2](https://user-images.githubusercontent.com/48164998/220165109-a43f5ea9-3904-49de-bfa3-77e82b6f8030.png)
+![Screenshot_3](https://user-images.githubusercontent.com/48164998/220165114-805a4c50-fdb6-4adb-a0e7-ec61e096e6dd.png)
