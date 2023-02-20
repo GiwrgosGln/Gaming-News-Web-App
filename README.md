@@ -4,3 +4,4 @@ This web application was built in collaboration with another student from the un
 We also added an admin panel to the web application that allowed the administrator to perform various administrative tasks such as adding posts, users, and managing the website. This panel is designed to make website management easier and more efficient.
 
 As part of this university project, we plan to add a review page and an e-shop that will feature gaming stuff in the future.
+![Screenshot_1](https://user-images.githubusercontent.com/48164998/220164690-8cf3ea6e-42df-43b9-a6eb-af50e2a88421.png)
